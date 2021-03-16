@@ -1,7 +1,7 @@
 # CustomerCLI
 
 
-To run - Clone it,
+To run - clone it,
 then
 
 ````
