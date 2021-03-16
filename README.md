@@ -1,5 +1,15 @@
 # CustomerCLI
 
+
+To run - Clone it
+then
+
+````
+npm install
+
+npm link
+````
+
 <img width="565" alt="Screenshot 2021-03-16 at 9 17 55 AM" src="https://user-images.githubusercontent.com/36249617/111253651-8ce4e100-8639-11eb-8710-e77526ef240a.png">
 "-----"
 <img width="558" alt="Screenshot 2021-03-16 at 9 19 32 AM" src="https://user-images.githubusercontent.com/36249617/111253665-94a48580-8639-11eb-9849-8bb1338874db.png">
